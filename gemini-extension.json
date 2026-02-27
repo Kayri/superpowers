@@ -1,0 +1,6 @@
+{
+  "name": "superpowers",
+  "version": "1.0.0",
+  "description": "obra/superpowers skills ported to the Gemini CLI extension format. Provides global context guidelines and slash commands for structured agent workflows.",
+  "contextFileName": "GEMINI.md"
+}
